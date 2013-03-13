@@ -1,0 +1,4 @@
+sale
+====
+
+Some discount information
